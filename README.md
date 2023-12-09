@@ -21,7 +21,7 @@ Details and background information on the dataset and Kaggle competition ‘Plan
 
 Thapa, Ranjita; Zhang, Kai; Snavely, Noah; Belongie, Serge; Khan, Awais. The Plant Pathology Challenge 2020 data set to classify foliar disease of apples. Applications in Plant Sciences, 8 (9), 2020.
 
-##Acknowledgments
+## Acknowledgments
 We acknowledge financial support from Cornell Initiative for Digital Agriculture (CIDA) and special thanks to Zach Guillian for help with data collection.
 
 Kaggle is excited to partner with research groups to push forward the frontier of machine learning. Research competitions make use of Kaggle's platform and experience, but are largely organized by the research group's data science team. Any questions or concerns regarding the competition data, quality, or topic will be addressed by them.
