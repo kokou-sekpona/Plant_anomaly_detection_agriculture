@@ -1,8 +1,8 @@
 # Plant_anomaly_detection_agriculture
 <img
   class="fit-picture"
-  src=""
-  alt="" />
+  src="https://raw.githubusercontent.com/kokou-sekpona/Plant_anomaly_detection_agriculture/main/Test_94.jpg"
+  alt="the category of foliar diseases in apple trees" />
   
 ## Description
 Problem Statement
